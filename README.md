@@ -12,7 +12,7 @@ The programs in the examples folder are standalone, except for `roll-test.cob` a
 runs this routine. To compile this example, use:
 
 ```
-cobc -X roll-test.cob roll.cob
+cobc -x roll-test.cob roll.cob
 ```
 
 For more information on COBOL programming in general and GnuCOBOL in particular, please see:
